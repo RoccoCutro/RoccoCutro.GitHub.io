@@ -28,3 +28,17 @@ td{
 ul{
 	list-style-type: square;
 }
+.button {
+			display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            text-align: center;
+            margin: 20px auto;
+            }
+.button:hover {
+                background-color: #45a049;
+}
